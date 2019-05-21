@@ -1,0 +1,13 @@
+{
+  "name": "sample_docker_app",
+  "version": "1.0.0",
+  "description": "Node.js app in docker",
+  "author": "Jim Paine",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
